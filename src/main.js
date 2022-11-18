@@ -15,7 +15,7 @@ let tempf;
 b.pinMode(HEAT, b.OUTPUT);
 
 /* Variables set by RESTful API */
-var forceHeat = false;
+var forceHeat = false; // DO NOT CHANGE
 var temp = "-1"; // DO NOT CHANGE
 var status = "-1"; // DO NOT CHANGE
 
